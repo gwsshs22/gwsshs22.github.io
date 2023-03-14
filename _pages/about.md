@@ -9,21 +9,16 @@ profile:
   image: gwkim.jpg
     
 publications:
-  years: [2021, 2019, 2017]
+  years: [2022, 2021, 2019, 2017]
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm an undergraduate student at Seoul National University working with [Prof. Byung-Gon Chun](https://bgchun.github.io/) as a research intern.
-I am currently applying for doctoral programs pursuing an ML systems researcher.
-My research goal is to build software that optimizes and orchestrates the execution of ML applications.
-To this end, I have participated in [several research projects](#publications) presented at top CS conferences.
+Hi there! I'm Geon-Woo Kim. I'm a Ph.D. student at UT Austin working under the guidance of [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/).
+I received my Bachelor's degree from Seoul National University, where I was advised by [Prof. Byung-Gon Chun](https://bgchun.github.io/).
+**My research interests lie in systems for machine learning**, with a recent focus on tackling the challenges of large-scale model training and inference.
+Prior to beginning my Ph.D. program, I had the pleasure of working as a software engineer at [Viva Republica](https://toss.im/en), a startup that operates one of South Korea's largest fintech services.
 
-Before returning to the school, I also worked as a software platform engineer for nearly five years at [Viva Republica Inc.](https://toss.im/en), a leading fin-tech startup in South Korea [valued at over $7.4B with over 20 million users](https://techcrunch.com/2021/06/22/viva-republica-developer-of-korean-financial-super-app-toss-raises-410m-at-a-7-4b-valuation/).
-As an early member of the startup, I implemented over 20 financial services, built a fully equipped mobile marketing platform, and operated the infrastructure for machine learning and big data analysis.
-
-Email: gwsshs22 \[at\] snu \[dot\] ac \[dot\] kr
-
-
+Email: gwkim \[at\] utexas \[dot\] edu
