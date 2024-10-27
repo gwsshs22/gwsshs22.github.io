@@ -21,4 +21,6 @@ I received my Bachelor's degree from Seoul National University, where I was advi
 **My research interests lie in systems for machine learning**, with a recent focus on tackling the challenges of large-scale model training and inference.
 Prior to beginning my Ph.D. program, I had the pleasure of working as a software engineer at [Viva Republica](https://toss.im/en), a startup that operates one of South Korea's largest fintech services.
 
+Please see my [cv](assets/pdf/CV_Geon-Woo_Kim.pdf) for more details.
+
 Email: gwkim \[at\] utexas \[dot\] edu
