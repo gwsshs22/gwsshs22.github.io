@@ -9,7 +9,7 @@ profile:
   image: gwkim.jpg
     
 publications:
-  years: [2022, 2021, 2019, 2017]
+  years: [2024, 2022, 2021, 2019, 2017]
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
