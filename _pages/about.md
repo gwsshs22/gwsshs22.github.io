@@ -9,7 +9,7 @@ profile:
   image: gwkim.jpg
     
 publications:
-  years: [2024, 2022, 2021, 2019, 2017]
+  years: [2025, 2024, 2022, 2021, 2019, 2017]
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,3 +24,5 @@ Prior to beginning my Ph.D. program, I had the pleasure of working as a software
 Please see my [cv](assets/pdf/CV_Geon-Woo_Kim.pdf) for more details.
 
 Email: gwkim \[at\] utexas \[dot\] edu
+
+[Linkedin Profile](https://www.linkedin.com/in/{{ site.linkedin_username }})
